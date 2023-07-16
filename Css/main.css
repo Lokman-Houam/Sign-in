@@ -124,8 +124,8 @@ span:nth-child(66) ,
 span:nth-child(12) ,
 span:nth-child(115) ,
 span:nth-child(99) {
-    animation: infinite animate 3.4s linear;
-    animation-delay: 1s;
+    animation: infinite animate 3.5s linear;
+    animation-delay: 1.2s;
 }
 @keyframes animate {
     0% {
